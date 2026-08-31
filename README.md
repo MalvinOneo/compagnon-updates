@@ -7,8 +7,9 @@
 
 ## Fonctionnalités
 
-- Activités Minerai et Bois configurables.
+- Activités Minerai, Bois et Craft configurables.
 - Nombre de cycles et intervalle entièrement personnalisables.
+- Calcul automatique des cycles de Craft selon l’objectif et la quantité fabriquée par cycle.
 - Démarrage et pause rapides avec `F6`.
 - Réinitialisation avec `Échap`.
 - Progression, temps restant et prochain cycle affichés en temps réel.
