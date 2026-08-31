@@ -3,11 +3,7 @@
   <h1>Compagnon</h1>
   <p>Assistant de cycles léger et moderne pour RedM, conçu pour Windows.</p>
 
-  <p>
-    <a href="https://github.com/MalvinOneo/compagnon-updates/releases/latest/download/Installer.Compagnon.exe"><strong>Télécharger la dernière version</strong></a>
-    ·
-    <a href="https://github.com/MalvinOneo/compagnon-updates/releases/latest">Voir les nouveautés</a>
-  </p>
+  <p><a href="https://github.com/MalvinOneo/compagnon-updates/releases/latest">Voir les nouveautés</a></p>
 </div>
 
 ## Fonctionnalités
@@ -18,24 +14,23 @@
 - Réinitialisation avec `Échap`.
 - Progression, temps restant et prochain cycle affichés en temps réel.
 - Statistiques locales séparées pour le minage et la coupe de bois.
+- Suivi du stock de charbon, de fer et de cuivre avec poids total et valeur potentielle.
+- Enregistrement des entrées de minage et des ventes réelles directement depuis les KPI.
+- Statistiques de ventes par minerai et chiffre d’affaires cumulé.
 - Vérification et installation sécurisées des mises à jour.
 - Fonctionnement discret dans la zone de notification Windows.
 
-## Installation
+## Accès
 
-1. Téléchargez [Installer.Compagnon.exe](https://github.com/MalvinOneo/compagnon-updates/releases/latest/download/Installer.Compagnon.exe).
-2. Ouvrez le fichier téléchargé.
-3. Acceptez la demande d’autorisation Windows.
-4. Suivez les étapes de l’assistant d’installation.
-5. Lancez **Compagnon** depuis le menu Démarrer.
+Ce dépôt distribue uniquement les mises à jour destinées aux utilisateurs qui possèdent déjà Compagnon. Le paquet publié refuse toute nouvelle installation lorsque l’application n’est pas détectée sur l’ordinateur.
 
-Compagnon nécessite Windows et doit être utilisé avec RedM au premier plan. L’application suspend ses actions lorsque RedM n’est plus la fenêtre active.
+L’installateur initial de Compagnon est distribué séparément par son propriétaire et n’est pas disponible dans ce dépôt.
 
 ## Mises à jour
 
 Compagnon vérifie automatiquement si une nouvelle version est disponible. L’utilisateur reste libre de l’installer immédiatement ou plus tard.
 
-Vous pouvez également utiliser **Vérifier** dans l’en-tête de l’application. Chaque installateur téléchargé automatiquement est contrôlé avec son empreinte SHA-256 avant son lancement.
+Vous pouvez également utiliser **Vérifier** dans l’en-tête de l’application. Chaque paquet téléchargé automatiquement est contrôlé avec son empreinte SHA-256 avant son lancement.
 
 ## Données et confidentialité
 
@@ -43,12 +38,6 @@ Vous pouvez également utiliser **Vérifier** dans l’en-tête de l’applicati
 - Aucun compte Compagnon n’est nécessaire.
 - Aucune statistique personnelle n’est envoyée vers GitHub.
 - GitHub est contacté uniquement pour vérifier et télécharger les versions publiées.
-
-## Téléchargement officiel
-
-Utilisez toujours la [page de la dernière version](https://github.com/MalvinOneo/compagnon-updates/releases/latest) ou le bouton de téléchargement ci-dessus.
-
-Les anciennes versions restent disponibles dans l’[historique des publications](https://github.com/MalvinOneo/compagnon-updates/releases), mais elles ne sont pas recommandées pour une nouvelle installation.
 
 ## Assistance
 
