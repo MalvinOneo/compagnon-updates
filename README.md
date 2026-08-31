@@ -1,7 +1,6 @@
 <div align="center">
   <img src="assets/compagnon.png" width="64" alt="Icône de Compagnon">
   <h1>Compagnon</h1>
-  <p>Assistant de cycles léger et moderne pour RedM, conçu pour Windows.</p>
 
   <p><a href="https://github.com/MalvinOneo/compagnon-updates/releases/latest">Voir les nouveautés</a></p>
 </div>
@@ -30,7 +29,7 @@ L’installateur initial de Compagnon est distribué séparément par son propri
 
 Compagnon vérifie automatiquement si une nouvelle version est disponible. L’utilisateur reste libre de l’installer immédiatement ou plus tard.
 
-Vous pouvez également utiliser **Vérifier** dans l’en-tête de l’application. Chaque paquet téléchargé automatiquement est contrôlé avec son empreinte SHA-256 avant son lancement.
+Chaque paquet téléchargé automatiquement est contrôlé avec son empreinte SHA-256 avant son lancement.
 
 ## Données et confidentialité
 
